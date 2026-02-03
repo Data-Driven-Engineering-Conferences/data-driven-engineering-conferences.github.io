@@ -109,7 +109,7 @@ Web_publish/
 |-----|-------------|
 | **Overview** | Publication trends by year (merged ProQuest + Google Scholar). Bar chart of paper counts and classification coverage. |
 | **Thematic Atlas** | Domain and sub-area evolution over time. Heatmaps show prevalence (%) of top 10 domains and sub-areas; "Others" row aggregates the rest. Model selector switches between LLM classification outputs. |
-| **Community** | Interactive citation and coauthorship networks. Filter by domain, author, and year. GEXF-based layouts for top 200 authors. |
+| **Community** | Interactive citation and coauthorship networks. Filter by domain, author, and year. GEXF-based layouts for authors of top 200 cited papers. |
 | **Authors** | Searchable author table with citation metrics (in/out degree, PageRank, centrality), coauthor degree, career span, and Google Scholar links. |
 | **Archive** | Searchable paper archive with domain/sub-area classification. Filter by year, domain, and model. |
 
@@ -134,7 +134,7 @@ Web_publish/
 | `publication_trends_by_source.json` | Per-year counts by source (ProQuest, Google Scholar, merged). |
 | `coauthorship_network_unified.json` | Coauthorship edges (author–author). |
 | `citation_network_*.json` | Citation edges (paper–paper, author–author, mixed). |
-| `*_top200.gexf` | GEXF networks for top 200 authors (Gephi-compatible). |
+| `*_top200.gexf` | GEXF networks for authors of top 200 cited papers (Gephi-compatible). |
 | `available_models.json` | LLM models and paths to classification CSVs. |
 | `complete_classified_papers_*.csv` | Per-model domain/sub-area classifications for Archive and Thematic Atlas. |
 
