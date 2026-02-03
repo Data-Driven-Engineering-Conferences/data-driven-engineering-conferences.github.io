@@ -1,0 +1,445 @@
+[
+  {
+    "year": 2002,
+    "totalPapers": 244,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 5,
+      "DAT": 21,
+      "ENG": 23,
+      "ENT": 28,
+      "HUM": 12,
+      "IND": 4,
+      "MAN": 63,
+      "OPE": 17,
+      "QUA": 24,
+      "SYS": 12,
+      "WOR": 10
+    }
+  },
+  {
+    "year": 2003,
+    "totalPapers": 286,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 1,
+      "DAT": 17,
+      "ENG": 14,
+      "ENT": 33,
+      "HEA": 4,
+      "HUM": 19,
+      "IND": 6,
+      "MAN": 90,
+      "OPE": 29,
+      "QUA": 25,
+      "SYS": 8,
+      "WOR": 9
+    }
+  },
+  {
+    "year": 2004,
+    "totalPapers": 439,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 2,
+      "DAT": 44,
+      "ENG": 21,
+      "ENT": 65,
+      "HEA": 6,
+      "HUM": 38,
+      "IND": 11,
+      "MAN": 93,
+      "OPE": 50,
+      "QUA": 36,
+      "SYS": 16,
+      "WOR": 14
+    }
+  },
+  {
+    "year": 2005,
+    "totalPapers": 182,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 1,
+      "DAT": 20,
+      "ENG": 6,
+      "ENT": 23,
+      "HEA": 1,
+      "HUM": 20,
+      "IND": 4,
+      "MAN": 46,
+      "OPE": 19,
+      "QUA": 8,
+      "SYS": 7,
+      "WOR": 6
+    }
+  },
+  {
+    "year": 2006,
+    "totalPapers": 259,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 2,
+      "DAT": 35,
+      "ENG": 14,
+      "ENT": 32,
+      "HEA": 9,
+      "HUM": 27,
+      "IND": 4,
+      "MAN": 48,
+      "OPE": 27,
+      "QUA": 6,
+      "SYS": 11,
+      "WOR": 5
+    }
+  },
+  {
+    "year": 2007,
+    "totalPapers": 248,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 5,
+      "DAT": 28,
+      "ENG": 11,
+      "ENT": 22,
+      "HEA": 13,
+      "HUM": 13,
+      "IND": 7,
+      "MAN": 62,
+      "OPE": 24,
+      "QUA": 15,
+      "SYS": 15,
+      "WOR": 6
+    }
+  },
+  {
+    "year": 2008,
+    "totalPapers": 302,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 3,
+      "DAT": 40,
+      "ENG": 11,
+      "ENT": 44,
+      "HEA": 7,
+      "HUM": 31,
+      "IND": 9,
+      "MAN": 50,
+      "OPE": 28,
+      "QUA": 17,
+      "SYS": 15,
+      "WOR": 13
+    }
+  },
+  {
+    "year": 2009,
+    "totalPapers": 321,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 1,
+      "DAT": 38,
+      "ENG": 24,
+      "ENT": 36,
+      "HEA": 16,
+      "HUM": 35,
+      "IND": 11,
+      "MAN": 49,
+      "OPE": 31,
+      "QUA": 11,
+      "SYS": 23,
+      "WOR": 6
+    }
+  },
+  {
+    "year": 2010,
+    "totalPapers": 347,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 3,
+      "DAT": 25,
+      "ENG": 21,
+      "ENT": 44,
+      "HEA": 15,
+      "HUM": 23,
+      "IND": 9,
+      "MAN": 60,
+      "OPE": 30,
+      "QUA": 15,
+      "SYS": 17,
+      "WOR": 8
+    }
+  },
+  {
+    "year": 2011,
+    "totalPapers": 356,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 5,
+      "DAT": 36,
+      "ENG": 21,
+      "ENT": 32,
+      "HEA": 31,
+      "HUM": 21,
+      "IND": 9,
+      "MAN": 66,
+      "OPE": 32,
+      "QUA": 13,
+      "SUS": 1,
+      "SYS": 19,
+      "WOR": 7
+    }
+  },
+  {
+    "year": 2012,
+    "totalPapers": 341,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 4,
+      "DAT": 37,
+      "ENG": 27,
+      "ENT": 45,
+      "HEA": 22,
+      "HUM": 23,
+      "IND": 14,
+      "MAN": 57,
+      "OPE": 18,
+      "QUA": 17,
+      "SUS": 1,
+      "SYS": 14,
+      "WOR": 7
+    }
+  },
+  {
+    "year": 2013,
+    "totalPapers": 407,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 4,
+      "DAT": 47,
+      "ENG": 18,
+      "ENT": 68,
+      "HEA": 27,
+      "HUM": 26,
+      "IND": 13,
+      "MAN": 47,
+      "OPE": 38,
+      "QUA": 25,
+      "SYS": 29,
+      "WOR": 7
+    }
+  },
+  {
+    "year": 2014,
+    "totalPapers": 380,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 7,
+      "DAT": 36,
+      "ENG": 19,
+      "ENT": 61,
+      "HEA": 24,
+      "HUM": 34,
+      "IND": 12,
+      "MAN": 45,
+      "OPE": 34,
+      "QUA": 16,
+      "SUS": 1,
+      "SYS": 21,
+      "WOR": 12
+    }
+  },
+  {
+    "year": 2015,
+    "totalPapers": 314,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 5,
+      "DAT": 38,
+      "ENG": 12,
+      "ENT": 34,
+      "HEA": 24,
+      "HUM": 24,
+      "IND": 9,
+      "MAN": 37,
+      "OPE": 34,
+      "QUA": 21,
+      "SUS": 1,
+      "SYS": 22,
+      "WOR": 14
+    }
+  },
+  {
+    "year": 2017,
+    "totalPapers": 328,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 4,
+      "DAT": 40,
+      "ENG": 12,
+      "ENT": 57,
+      "HEA": 28,
+      "HUM": 18,
+      "IND": 8,
+      "MAN": 50,
+      "OPE": 24,
+      "QUA": 16,
+      "SYS": 17,
+      "WOR": 10
+    }
+  },
+  {
+    "year": 2018,
+    "totalPapers": 359,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 9,
+      "DAT": 44,
+      "ENG": 18,
+      "ENT": 66,
+      "HEA": 29,
+      "HUM": 15,
+      "IND": 10,
+      "MAN": 56,
+      "OPE": 27,
+      "QUA": 20,
+      "SUS": 1,
+      "SYS": 19,
+      "WOR": 8
+    }
+  },
+  {
+    "year": 2019,
+    "totalPapers": 259,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 10,
+      "DAT": 36,
+      "ENG": 11,
+      "ENT": 53,
+      "HEA": 15,
+      "HUM": 11,
+      "IND": 5,
+      "MAN": 24,
+      "OPE": 24,
+      "QUA": 11,
+      "SYS": 10,
+      "WOR": 8
+    }
+  },
+  {
+    "year": 2020,
+    "totalPapers": 413,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 6,
+      "DAT": 59,
+      "ENG": 19,
+      "ENT": 71,
+      "HEA": 17,
+      "HUM": 20,
+      "IND": 8,
+      "MAN": 79,
+      "OPE": 35,
+      "QUA": 7,
+      "SUS": 1,
+      "SYS": 21,
+      "WOR": 6
+    }
+  },
+  {
+    "year": 2021,
+    "totalPapers": 202,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 4,
+      "DAT": 28,
+      "ENG": 5,
+      "ENT": 35,
+      "HEA": 7,
+      "HUM": 18,
+      "IND": 6,
+      "MAN": 30,
+      "OPE": 24,
+      "QUA": 15,
+      "SYS": 6,
+      "WOR": 5
+    }
+  },
+  {
+    "year": 2022,
+    "totalPapers": 181,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 2,
+      "DAT": 30,
+      "ENG": 4,
+      "ENT": 40,
+      "HEA": 7,
+      "HUM": 9,
+      "IND": 5,
+      "MAN": 36,
+      "OPE": 13,
+      "QUA": 5,
+      "SYS": 8,
+      "WOR": 2
+    }
+  },
+  {
+    "year": 2023,
+    "totalPapers": 200,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 4,
+      "DAT": 42,
+      "ENG": 5,
+      "ENT": 25,
+      "HEA": 6,
+      "HUM": 15,
+      "MAN": 34,
+      "OPE": 16,
+      "QUA": 12,
+      "SUS": 1,
+      "SYS": 9,
+      "WOR": 5
+    }
+  },
+  {
+    "year": 2024,
+    "totalPapers": 319,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 3,
+      "DAT": 50,
+      "ENG": 9,
+      "ENT": 45,
+      "HEA": 20,
+      "HUM": 18,
+      "IND": 5,
+      "MAN": 59,
+      "OPE": 20,
+      "QUA": 15,
+      "SUS": 2,
+      "SYS": 16,
+      "WOR": 14
+    }
+  },
+  {
+    "year": 2025,
+    "totalPapers": 313,
+    "totalCitations": 0,
+    "domainCounts": {
+      "CYB": 5,
+      "DAT": 61,
+      "ENG": 11,
+      "ENT": 48,
+      "HEA": 19,
+      "HUM": 32,
+      "IND": 4,
+      "MAN": 47,
+      "OPE": 10,
+      "QUA": 9,
+      "SYS": 13,
+      "WOR": 16
+    }
+  }
+]

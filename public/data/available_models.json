@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ollama_llama3.3_70b-32k_20260116_012531",
+    "displayName": "llama3.3 70b 32k 20260116 012531",
+    "path": "ollama_llama3.3_70b-32k_20260116_012531/complete_classified_papers_new.csv",
+    "classified": 7000
+  },
+  {
+    "id": "ollama_mixtral_8x22b-32k_20260102_060913",
+    "displayName": "mixtral 8x22b 32k 20260102 060913",
+    "path": "ollama_mixtral_8x22b-32k_20260102_060913/complete_classified_papers_normalized.csv",
+    "classified": 7000
+  }
+]

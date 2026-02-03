@@ -1,0 +1,140 @@
+[
+  {
+    "year": 2002,
+    "merged": 385,
+    "proquest": 354,
+    "google_scholar": 302
+  },
+  {
+    "year": 2003,
+    "merged": 461,
+    "proquest": 434,
+    "google_scholar": 371
+  },
+  {
+    "year": 2004,
+    "merged": 691,
+    "proquest": 647,
+    "google_scholar": 547
+  },
+  {
+    "year": 2005,
+    "merged": 390,
+    "proquest": 354,
+    "google_scholar": 292
+  },
+  {
+    "year": 2006,
+    "merged": 479,
+    "proquest": 454,
+    "google_scholar": 385
+  },
+  {
+    "year": 2007,
+    "merged": 424,
+    "proquest": 395,
+    "google_scholar": 329
+  },
+  {
+    "year": 2008,
+    "merged": 470,
+    "proquest": 436,
+    "google_scholar": 369
+  },
+  {
+    "year": 2009,
+    "merged": 492,
+    "proquest": 468,
+    "google_scholar": 402
+  },
+  {
+    "year": 2010,
+    "merged": 499,
+    "proquest": 465,
+    "google_scholar": 395
+  },
+  {
+    "year": 2011,
+    "merged": 583,
+    "proquest": 541,
+    "google_scholar": 470
+  },
+  {
+    "year": 2012,
+    "merged": 606,
+    "proquest": 563,
+    "google_scholar": 487
+  },
+  {
+    "year": 2013,
+    "merged": 608,
+    "proquest": 568,
+    "google_scholar": 484
+  },
+  {
+    "year": 2014,
+    "merged": 514,
+    "proquest": 484,
+    "google_scholar": 393
+  },
+  {
+    "year": 2015,
+    "merged": 455,
+    "proquest": 432,
+    "google_scholar": 380
+  },
+  {
+    "year": 2017,
+    "merged": 388,
+    "proquest": 364,
+    "google_scholar": 322
+  },
+  {
+    "year": 2018,
+    "merged": 383,
+    "proquest": 366,
+    "google_scholar": 317
+  },
+  {
+    "year": 2019,
+    "merged": 292,
+    "proquest": 273,
+    "google_scholar": 226
+  },
+  {
+    "year": 2020,
+    "merged": 438,
+    "proquest": 421,
+    "google_scholar": 222
+  },
+  {
+    "year": 2021,
+    "merged": 215,
+    "proquest": 203,
+    "google_scholar": 170
+  },
+  {
+    "year": 2022,
+    "merged": 217,
+    "proquest": 198,
+    "google_scholar": 180
+  },
+  {
+    "year": 2023,
+    "merged": 849,
+    "proquest": 209,
+    "google_scholar": 796
+  },
+  {
+    "year": 2024,
+    "merged": 866,
+    "proquest": 346,
+    "google_scholar": 806
+  },
+  {
+    "year": 2025,
+    "merged": 349,
+    "proquest": 331,
+    "google_scholar": 290
+  }
+]

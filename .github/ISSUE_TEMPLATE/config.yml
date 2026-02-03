@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Harvard Dataverse Dataset
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YW4IJG
+    about: Access the original dataset on Harvard Dataverse

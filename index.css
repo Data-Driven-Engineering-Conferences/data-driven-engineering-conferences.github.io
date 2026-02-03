@@ -1,0 +1,30 @@
+/* Base styles for the application */
+@keyframes loading-bar {
+  0% { left: -33%; }
+  100% { left: 100%; }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* ClustrMaps globe - compact 80x80 container, no frame on wrapper only */
+.clustrmaps-globe-wrapper {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+.clustrmaps-globe-wrapper iframe {
+  width: 80px !important;
+  height: 80px !important;
+  max-width: 80px !important;
+  max-height: 80px !important;
+  border: none !important;
+}
+

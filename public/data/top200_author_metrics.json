@@ -1,0 +1,3068 @@
+{
+  "rajeet chatterjee": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "philip wolfe": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sungsoon park": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "larry j shuman": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 3.868143357432736e-88,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.6666666666666666
+  },
+  "mary e besterfield sacre": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 3.868143357432736e-88,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.6666666666666666
+  },
+  "harvey wolfe": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 2.3278199316682133e-88,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "desmond harvey": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chen ling": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "randa l shehab": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "omar m ashour": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.606732660798914e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "gl e okudan kremer": {
+    "coauthorDegree": 10,
+    "eigenvectorCentrality": 1.6236606685636934e-63,
+    "betweennessCentrality": 0.0014561423783658847,
+    "clusteringCoefficient": 0.17777777777777778
+  },
+  "michael v testani": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 5.235917945969075e-65,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sreekanth ramakrishnan": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 2.357079060806499e-64,
+    "betweennessCentrality": 0.0016949805462460033,
+    "clusteringCoefficient": 0.3
+  },
+  "lukasz m mazur": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lori rothenberg": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "john k mccreery": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ruiwei jiang": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "meng zhang": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "guang li": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yongpei guan": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mats winroth": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "peter almstrm": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sadan kulturel konak": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.6367128855336134e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "abdullah konak": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.6367128855336134e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "renee m clark": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "brayan norman": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "ergin erdem": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jing shi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yuanyuan peng": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "joilynn mondisa": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sara a mccomb": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "manoj kumar dora": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.9510326198215083e-69,
+    "betweennessCentrality": 1.1556685542586387e-05,
+    "clusteringCoefficient": 0.7
+  },
+  "evelien lambrecht": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 9.287375770982405e-70,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xavier gellynck": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.9510326198215083e-69,
+    "betweennessCentrality": 1.1556685542586387e-05,
+    "clusteringCoefficient": 0.7
+  },
+  "richard a wysk": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 6.480491037630313e-64,
+    "betweennessCentrality": 0.0018182518587002581,
+    "clusteringCoefficient": 0.2
+  },
+  "a bodner douglas": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 1.9483503620188338e-23,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "leon f mcginnis": {
+    "coauthorDegree": 13,
+    "eigenvectorCentrality": 1.413853719831347e-22,
+    "betweennessCentrality": 0.0004237451365615008,
+    "clusteringCoefficient": 0.3974358974358974
+  },
+  "matthew c frank": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.850643849453282e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sanjay b joshi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.850643849453282e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yasser a hosni": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "ola l a harrysson": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "maher lahmar": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "saif benjaafar": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "marc goetschalckx": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.438227777152425e-23,
+    "betweennessCentrality": 0.00010015794136908202,
+    "clusteringCoefficient": 0.6666666666666666
+  },
+  "gunter p sharp": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.3641535387147365e-23,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "doug bodner": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.3641535387147365e-23,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "t govindaraj": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.3641535387147365e-23,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kweilong huang": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.3641535387147365e-23,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "naga k c krothapalli": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "abhijit v deshmukh": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.544984096238116e-147,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.0
+  },
+  "bonnie mcilrath": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "timothy kotnour": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "minakshi tilak": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.1475602023941834e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "eileen m van aken": {
+    "coauthorDegree": 13,
+    "eigenvectorCentrality": 7.071989926437844e-50,
+    "betweennessCentrality": 0.001240417581570939,
+    "clusteringCoefficient": 0.19230769230769232
+  },
+  "trevor mcdonald": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.1475602023941834e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kannan ravi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.1475602023941834e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jose emmanuel ramirez marquez": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 4.493830208056845e-92,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "david w coit": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.4278739607397464e-91,
+    "betweennessCentrality": 5.393119919873647e-05,
+    "clusteringCoefficient": 0.3
+  },
+  "durward k ii sobek": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.544984096238116e-147,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.0
+  },
+  "cindy jimmerson": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "toni l doolen": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 3.24085736617441e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "june m worley": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 3.24085736617441e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jennifer a farris": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 3.3411647842208752e-50,
+    "betweennessCentrality": 0.0001540891405678185,
+    "clusteringCoefficient": 0.6
+  },
+  "guixiu qiao": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "roberto f lu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "frank riddick": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fawaz m abdullah": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "jayant rajgopal": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "alexander k schmig": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "oliver rose": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.544984096238116e-147,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.0
+  },
+  "charu chandra": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "armen tumanyan": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "craig josias": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "janis p terpenny": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kenneth j mclean": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "seamus m mcgovern": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "surendra m gupta": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "jayendran venkateswaran": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 0.04149259764438527,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "youngjun son": {
+    "coauthorDegree": 14,
+    "eigenvectorCentrality": 0.3405156880512772,
+    "betweennessCentrality": 0.0002773604530220733,
+    "clusteringCoefficient": 0.4725274725274725
+  },
+  "shing i chang": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "tarik aouam": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "e stanley lee": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "charles johnson": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ragavanantham shanmugam": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lance roberts": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "stephen zinkgraf": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "maria young": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lana rn cameron": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "anna rn flores": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.98104945677228e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "a reha botsali": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "brett a peters": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "simon oechsner": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "xiaobing zhao": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 0.04149259764438527,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "manimay ghosh": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "hungda wan": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 3.044058412924518e-97,
+    "betweennessCentrality": 5.007897068454101e-05,
+    "clusteringCoefficient": 0.3
+  },
+  "f frank chen": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.7968776886343322e-97,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kevin m taaffe": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "esengul tayfur": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "helena carvalho": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "virgilo machado": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.544984096238116e-147,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.0
+  },
+  "sheik n imrhan": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 9.354421022870818e-104,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "m d b sarder": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.5989281356191826e-103,
+    "betweennessCentrality": 6.16356562271274e-05,
+    "clusteringCoefficient": 0.2
+  },
+  "nabeel f mandahawi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 9.354421022870816e-104,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "behnam malakooti": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ivan thomas": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "siva kumar tanguturi": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sanjaya gajurel": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "hyun s kim": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kul bhasin": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "poching delaurentis": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710687e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "renata kopach": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710687e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ronald l rardin": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710687e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mark a lawley": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710687e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kumar muthuraman": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710687e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "haifeng wang": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 2.40606080364523e-25,
+    "betweennessCentrality": 0.00010786239839747293,
+    "clusteringCoefficient": 0.6111111111111112
+  },
+  "leyla ozsen": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710683e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "paul intrevado": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.3070513865710683e-25,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "priyantha devapriya": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "william g jr ferrell": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "neil geismar": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "can saygin": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "jagannathan sarangapani": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "alexandra tenera": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "takashi irohara": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 6.1160660222816125e-24,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "christian wernz": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "saraj gupta": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.606732660798914e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "timothy w simpson": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2521420874952948e-89,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "robert b stone": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.579955697386071e-89,
+    "betweennessCentrality": 4.6226742170345546e-05,
+    "clusteringCoefficient": 0.4
+  },
+  "kemper e lewis": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2521420874952948e-89,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "william c regli": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2521420874952948e-89,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "vijith m varghese": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "manuel d ph d rossetti": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "russell d meller": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "jennifer a pazour": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.544984096238116e-147,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.0
+  },
+  "nuri mehmet gokhan": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kim lascola needy": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "bryan a norman": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "brady hunsaker": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "salil desai": {
+    "coauthorDegree": 20,
+    "eigenvectorCentrality": 3.581461328944717e-36,
+    "betweennessCentrality": 0.001240417581570939,
+    "clusteringCoefficient": 0.1368421052631579
+  },
+  "jag sankar": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 8.520980511015796e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "anthony moore": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 8.520980511015796e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "benjamin harrison": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 8.520980511015796e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shanthi muthuswamy": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.8823901354446084e-66,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sarah s y lam": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7477547563899901e-65,
+    "betweennessCentrality": 0.000616356562271274,
+    "clusteringCoefficient": 0.16666666666666666
+  },
+  "heidi a taboada": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 4.493830208056845e-92,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "wiljeana j glover": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 3.499957906407361e-50,
+    "betweennessCentrality": 0.0002927693670788551,
+    "clusteringCoefficient": 0.4666666666666667
+  },
+  "cari r bryant arnold": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 6.98538389329643e-90,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "daniel a mcadams": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 6.98538389329643e-90,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chenying kong": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "dale t masel": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "g don taylor": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "kevin j rodrguez echevarra": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.544984096238116e-147,
+    "betweennessCentrality": 7.704457028390924e-06,
+    "clusteringCoefficient": 0.0
+  },
+  "peifang jennifer tsai": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.0840143881271683e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "krishnaswami srihari": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.4388677006379152e-64,
+    "betweennessCentrality": 0.0013868022651103663,
+    "clusteringCoefficient": 0.4
+  },
+  "christopher t foltz": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.0840143881271683e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "naveen rathi": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 6.312380465352332e-51,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "levis cabrera abinader": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "germn andrs mndez giraldo": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sandra duni eksioglu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sizhe zhang": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "song li": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "antonio freitas rentes": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "cesar augusto campos de araujo": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "victor cattani rentes": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sandra k garrett": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.6318013944406846e-119,
+    "betweennessCentrality": 1.540891405678185e-05,
+    "clusteringCoefficient": 0.3333333333333333
+  },
+  "barrett s chfp caldwell": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 7.519522399209747e-120,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "tareq z ahram": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "waldemar karwowski": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ben cpim amaba": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "paula obeid": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saeideh fallah fini": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "konstantinos p triantis": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jesus m de la garza": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "abhijit gosavi": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "scott e grasman": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "weilong cong": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zhijian pei": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "eddy george van vleet": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "qiangguo wang": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "erica fields": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.0811794833465996e-63,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "david claudio eduardo prez": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.0811794833465996e-63,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "carol a smith": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.0811794833465996e-63,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "andris freivalds": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.0811794833465996e-63,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ardarion richardson": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 6.88330967715064e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sang jin lee": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 6.88330967715064e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "thomas lacksonen": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "balu rathinam": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fatma pakdil": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "derya glel": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "nicholas j loyd": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "gregory a harris": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lisa blanchard": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "glenn w kuriger": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.252081603547372e-97,
+    "betweennessCentrality": 3.852228514195462e-06,
+    "clusteringCoefficient": 0.6666666666666666
+  },
+  "javier fiallos": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jaime e prez": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fabin sabilln": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "miguel licona": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "raf sluismans": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "tinne lommelen": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "friso den hertog": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "erick c jr jones": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "michael w riley": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "trevor battieste": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "benjamin osafo yeboah": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mark elton": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xiaochun jiang": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "wayne book": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "eui h park": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lourdes a medina avils": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 6.878573363769588e-64,
+    "betweennessCentrality": 0.0006009476482144921,
+    "clusteringCoefficient": 0.4
+  },
+  "babak lajevardi": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.579955697386069e-89,
+    "betweennessCentrality": 4.6226742170345546e-05,
+    "clusteringCoefficient": 0.4
+  },
+  "steven d leith": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2521420874952932e-89,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "dale a king": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2521420874952932e-89,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "brian k paul": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2521420874952932e-89,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jessica perkins": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 8.520980511015796e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "william wagner": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 8.520980511015796e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "y steve hong": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 8.520980511015796e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kiran rangarajan": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "joe guggenberger": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "irina s dolinskaya": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zhenyu edwin shi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "karen r smilowitz": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mauricio cabrera ros": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kai furmans": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "van goubergen dirk": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7724797954079113e-69,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "adrienn molnar": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7724797954079113e-69,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "maneesh kumar": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7724797954079113e-69,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mustafa umut culcuoglu": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shengyong wang": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chris powers": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "michael hillman": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kaveri a thakur": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "rapinder singh sawhney": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "luciana rosa leite": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.2009958829429e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "cintia a yagasaki": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.2009958829429e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "roberto antonio martins": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 2.37696142473846e-50,
+    "betweennessCentrality": 0.0002927693670788551,
+    "clusteringCoefficient": 0.4
+  },
+  "yanhua huang": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.0379567249671125e-49,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xueping li": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.2524558625537455e-49,
+    "betweennessCentrality": 3.08178281135637e-05,
+    "clusteringCoefficient": 0.6190476190476191
+  },
+  "joseph hubert iv wilck": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.0379567249671125e-49,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "thomas berg": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 2.2524558625537455e-49,
+    "betweennessCentrality": 3.08178281135637e-05,
+    "clusteringCoefficient": 0.6190476190476191
+  },
+  "fei he": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jianmin zhu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "nageswara s v rao": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "joel james": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "laura hughes ikuma": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "isabelina nahmens": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fereydoun aghazadeh": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ameer al salem": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "farbod farhadi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohamed kharbeche": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ahmed s ghoniem": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ashish d nimbarte": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "majed zreiqat": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "marsha chapman": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jennifer a sivak callcott": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "eric d antmann": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "nurcin celik": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xiaoran shi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yading dai": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sarah j grigg": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3945989575061366e-119,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lisa c benson": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3945989575061366e-119,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mark haynes": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chihhang john wu": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "b terry beck": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "robert j peterman": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohammad moshref javadi": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "seokcheon lee": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "joseph amundson": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.500506430497932e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "amy brown greer": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.500506430497932e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohannad shuaib": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.500506430497932e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "f fazleena badurdeen": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 4.609437334982457e-39,
+    "betweennessCentrality": 4.6226742170345546e-05,
+    "clusteringCoefficient": 0.7142857142857143
+  },
+  "i s jawahir": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.500506430497931e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "thomas goldsby": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.500506430497931e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "deepak iyengar": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.500506430497931e-39,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ana k gauthier": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.7495053230224313e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "giovanni cruz": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.7495053230224313e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "steve duket": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.7495053230224313e-64,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fernando deschamps": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.016948780242447e-50,
+    "betweennessCentrality": 0.00019646365422396858,
+    "clusteringCoefficient": 0.6
+  },
+  "edson pinheiro de lima": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 4.016948780242447e-50,
+    "betweennessCentrality": 0.00019646365422396858,
+    "clusteringCoefficient": 0.6
+  },
+  "eduardo alves portela santos": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.853918176516903e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "arun mohan gnanasekaran": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "hao zhong": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohsen moghaddam": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "rajesh gutta": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.7968776886343322e-97,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "christina f rusnock": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "christopher d geiger": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "amirreza m khaleghi": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "dong xu": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sara minaeian": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mingyang li": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yifei yuan": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jian liu": {
+    "coauthorDegree": 12,
+    "eigenvectorCentrality": 0.33238519422231166,
+    "betweennessCentrality": 9.245348434069109e-05,
+    "clusteringCoefficient": 0.6363636363636364
+  },
+  "christopher vo": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "arsalan mousavian": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jyhming lien": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.3049407427082853,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "nelly p garcia lopez": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "martin fischer": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "christie nelson": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "endre boros": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fred roberts": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "javier rubio herrero": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "paul kantor": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "curtis mcginity": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "brian nakamura": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "brian c ricks": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "patrick ball": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chad conrad": {
+    "coauthorDegree": 9,
+    "eigenvectorCentrality": 0.002449356465480414,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "eben adarkwa": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.6256393476091382e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "john michael ohodnicki": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.6256393476091382e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "abhijit roy": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.6256393476091382e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "boeun lee": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.6256393476091382e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "prashant n kumta": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.6256393476091382e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jessica o matson": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jordan j sonnentag": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "john a jr white": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "robert c imhoff": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "scott streiner": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 3.3297204427532547e-88,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "karen m bursic": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 3.3297204427532547e-88,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "karl r haapala": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 6.9853838932964215e-90,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "joseph f junker": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 6.9853838932964215e-90,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "samira abbasgholizadeh rahimi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "afshin jamshidi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "daoud ait kadi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "angel ruiz bartolome": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "thanapol poopunsri": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 8.152643247038261e-51,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "robert hurley": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 8.152643247038261e-51,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "deepak agrawal": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3849433745369974e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "soundar r t kumara": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 3.509543729562812e-83,
+    "betweennessCentrality": 0.0001232713124542548,
+    "clusteringCoefficient": 0.23809523809523808
+  },
+  "daniel a finke": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3849433745369974e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "liang zhang": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xiqun michael chen": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xiang he": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chenfeng xiong": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zheng zhu": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "daniel sparks": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 7.651529106600517e-40,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "xing zhuang": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shah m limon": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "om prakash yadav": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chanchal saha": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.991090291593671e-66,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "warren boldrin": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 4.991090291593671e-66,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "nicholas ballester": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "bradley guthrie": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "stephanie martens": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "corinne h mowrey": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "pratik j parikh": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xinhui zhang": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shuya li": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2127248347823686e-91,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saltuk selcuklu": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2127248347823686e-91,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "frank a felder": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.2127248347823686e-91,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "fangfang xu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "wei weng": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shigeru fujimura": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "naret trevio guzmn": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "cristina pomales garca": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "azubuike chukukere": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.563129634943339e-97,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "krystel k castillo villar": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.563129634943339e-97,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "wenfeng li": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "victoria l mitchell": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "barrie r nault": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "faisal aqlan": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 6.163824351980754e-65,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "abdulaziz a ahmed": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 6.481496899574048e-65,
+    "betweennessCentrality": 0.0007704457028390924,
+    "clusteringCoefficient": 0.5
+  },
+  "mohammad t khasawneh": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 6.87781883278967e-65,
+    "betweennessCentrality": 0.0004160406795331099,
+    "clusteringCoefficient": 0.4
+  },
+  "brian schaefer": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "diner konur": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "wanying shi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "julie drzymalski": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jian guo": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yueran zhuo": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "senay solak": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "shuohao wu": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "michael g kay": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "russell e king": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "anita r vila parrish": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "donald p warsing": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "guangyang xu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lihui bai": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zhihui sun": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lucky cho": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "hangmi michelle park": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jennifer k ryan": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "thomas c sharkey": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chihyun jung": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "detlef pabst": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "christoph mller": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "thomas s spengler": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "manbir s sodhi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "rajtha nakka": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 5.901681901951423e-104,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "chad miller": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 9.354421022870818e-104,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ziaul haq adnan": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 9.354421022870818e-104,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chaitanya mahajan": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "denis r cormier": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "azad m madni": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "michael sievers": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "alev kirazli": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "ricardo hormann": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "ashley skeete": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 7.201856944081273e-108,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohammadsadegh mobin": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.1246079968476917e-107,
+    "betweennessCentrality": 3.08178281135637e-05,
+    "clusteringCoefficient": 0.3333333333333333
+  },
+  "christian salmon": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 7.201856944081273e-108,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sang won yoon": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.9816221236324577e-26,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xiaoren duan": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sunderesh s heragu": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "assed naked haddad": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "lucio villarinho rosa": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "vikram m rao": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "royce a francis": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "neel khurjekar": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.964109362493009e-65,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "chunan chou": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.964109362493009e-65,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sayli bhide": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "rana riad": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "luis carlos rabelo": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "john pastrana": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "alexander katsarsky": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "connor ford": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "golshan madraki": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "esmaeil bahalkeh": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "robert p judd": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohammed s alkahtani": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "tariq aziz": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "amani ahmad": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saber darmoul": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zhaojun steven li": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 7.201856944081273e-108,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mahdi massahi khoraskani": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 7.201856944081273e-108,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "raquel gama soares de mello": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 5.536786163167349e-51,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jos eduardo mendona xavier": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 5.536786163167349e-51,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saeedeh abbasi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "masoud barati": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "gino j lim": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "xuefei song": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3945989575061347e-119,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jung hyup kim": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 1.6318013944406826e-119,
+    "betweennessCentrality": 1.540891405678185e-05,
+    "clusteringCoefficient": 0.3333333333333333
+  },
+  "laurel despins": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3945989575061347e-119,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jasmine mckenzie": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 9.712352075609093e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "santosh kumar parupelli": {
+    "coauthorDegree": 6,
+    "eigenvectorCentrality": 1.4719817098535888e-36,
+    "betweennessCentrality": 2.3113371085172773e-05,
+    "clusteringCoefficient": 0.6
+  },
+  "demetrius martin": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 9.712352075609093e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zaid almusaied": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "bahram asiabanpour": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "rico polim": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3849433745369974e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "qianyu hu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 1.3849433745369974e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ana carolina shinohara": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 2.4396639206893686e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "elias hans dener ribeiro da silva": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 2.4396639206893686e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sergio eduardo gouvea da costa": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 2.4396639206893686e-50,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "eyyub y kibis": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "esra byktahtakn": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ali dag": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "osama alotaik": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.2877334668650297e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "varun s chellappa": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.2877334668650297e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "susan steadman": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 2.2877334668650297e-83,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "maryam soltanpour gharibdousti": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kamran azimi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saraswathi hathikal": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "dennis wong": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "hongya lu": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.9816221236324577e-26,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "pranav s joshi": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "lida haghnegahdar": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zarin anika": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "manpreet singh": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sharan srinivas": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "a ravi ravindran": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "xiaonan yang": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 7.519522399209739e-120,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "sujatha alla": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "leili soltanisehat": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "unal tatar": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "omer keskin": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "izabele marquetti": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 5.773654948778478e-37,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "farhad imani": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "changqing cheng": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ruimin chen": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "hongbiao yang": {
+    "coauthorDegree": 3,
+    "eigenvectorCentrality": 4.66691589069861e-96,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sohilpreet singh walia": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "k u s somarathna": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "renee hendricks": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "allen jackson": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "nagendra n nagarur": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.7744468880831983e-73,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "maria baldeon calisto": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "susana k lai yuen": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "rodney kizito": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.9250336520411783e-49,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "phillip scruggs": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.9250336520411783e-49,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "reid kress": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.9250336520411783e-49,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "michael devinney": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 1.9250336520411783e-49,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sasan torabzadeh khorasani": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "ramyar feizi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "hamid tohidi": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "kaan unnu": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.213789074834984e-147,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "ablah aljohani": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.2023106126854814e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shalil khanal": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.2023106126854814e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "narayan bhattarai": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 1.2023106126854814e-36,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "mohammad anwar rahman": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yuan zhou": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "jamie rogers": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "seunghan lee": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 0.09337207211903786,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saurabh jain": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 0.09337207211903786,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yinwei zhang": {
+    "coauthorDegree": 4,
+    "eigenvectorCentrality": 0.09337207211903786,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sreenath chalil madathil": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "amit j lopes": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "myrtede alfred": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "maede maftouni": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "andrew chung chee law": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "bo shen": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zhenyu james kong": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "yangze zhou": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "niloofar ayoobi yazdi": {
+    "coauthorDegree": 5,
+    "eigenvectorCentrality": 4.992215609386394e-55,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "miguel campos": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "benoit montreuil": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "sara kaboudvand": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "soonhong kwon": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "zeynab bahrami bidoni": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "louis faugere": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "shannon buckley": {
+    "coauthorDegree": 7,
+    "eigenvectorCentrality": 1.1250788268414267e-22,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "david ernesto salinas navarro": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "alejandra alanis uribe": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "agatha clarice da silva ovando": {
+    "coauthorDegree": 2,
+    "eigenvectorCentrality": 3.616632196073012e-125,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 1.0
+  },
+  "saumil patel": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  },
+  "rohith naini": {
+    "coauthorDegree": 1,
+    "eigenvectorCentrality": 3.380967407523467e-166,
+    "betweennessCentrality": 0.0,
+    "clusteringCoefficient": 0.0
+  }
+}

@@ -1,0 +1,99 @@
+name: Data Correction Request
+description: Report incorrect, missing, or problematic data in the dataset
+title: "[Data] "
+labels: ["data-correction", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping us improve the data quality! Please provide as much detail as possible so we can investigate and fix the issue.
+
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Type of Issue
+      description: What kind of data issue are you reporting?
+      options:
+        - Incorrect paper information (title, year, authors)
+        - Missing paper from dataset
+        - Duplicate paper entry
+        - Incorrect domain/classification
+        - Wrong citation count
+        - Author information error
+        - Other data issue
+    validations:
+      required: true
+
+  - type: input
+    id: paper_title
+    attributes:
+      label: Paper Title
+      description: The title of the paper with the issue (if applicable)
+      placeholder: "e.g., A Data-Driven Analysis for..."
+    validations:
+      required: false
+
+  - type: input
+    id: paper_year
+    attributes:
+      label: Paper Year
+      description: The year of the paper (if applicable)
+      placeholder: "e.g., 2023"
+    validations:
+      required: false
+
+  - type: textarea
+    id: current_data
+    attributes:
+      label: Current Data (What's Wrong)
+      description: Describe what is currently shown in the dataset that you believe is incorrect
+      placeholder: |
+        Example:
+        - The paper is classified under "Supply Chain Management" domain
+        - The citation count shows 50
+        - The author list shows "John Doe, Jane Smith"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_data
+    attributes:
+      label: Expected/Correct Data
+      description: What should the correct information be? Please provide sources if available.
+      placeholder: |
+        Example:
+        - The paper should be classified under "Quality Engineering"
+        - The correct citation count is 75 (source: Google Scholar)
+        - The correct author list is "John Doe, Jane Smith, Bob Wilson"
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source/Reference
+      description: Please provide any links or references that support the correction (e.g., original paper DOI, Google Scholar link, conference proceedings)
+      placeholder: |
+        - DOI: https://doi.org/10.xxx/xxxxx
+        - Google Scholar: https://scholar.google.com/...
+        - Conference page: https://...
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any other information that might help us investigate this issue
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched the existing issues to make sure this hasn't been reported already
+          required: true
+        - label: I have verified this information from a reliable source
+          required: false
