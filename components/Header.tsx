@@ -49,13 +49,13 @@ const Header: React.FC<Props> = ({ onOpenUploadData, activeView }) => {
 
   return (
     <header className="bg-white border-b border-slate-200 sticky top-0 z-30">
-      <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="bg-slate-900 text-white p-2 rounded-lg">
              <BookOpen size={20} />
           </div>
           <div>
-            <h1 className="font-serif font-bold text-slate-900 text-lg leading-tight">A Data-Driven Analysis for Engineering Conferences: the Institute of Industrial and Systems Engineering (IISE) Annual Conference Proceedings (2002-2025)</h1>
+            <h1 className="font-serif font-bold text-slate-900 text-lg leading-tight">A Data-Driven Analysis for Engineering Conferences</h1>
             <div className="flex items-center gap-2">
               <div className="relative" ref={dropdownRef}>
                 <button
