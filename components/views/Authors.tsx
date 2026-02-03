@@ -739,7 +739,7 @@ const Authors: React.FC = () => {
                 className="w-4 h-4 text-amber-600 rounded border-slate-300 focus:ring-amber-500"
               />
               <Award size={14} className="text-amber-600" />
-              <span className="text-xs font-medium text-slate-600">Top 200 Only</span>
+              <span className="text-xs font-medium text-slate-600">Authors of Top-200 Papers</span>
             </label>
 
             {/* Google Scholar Filter */}

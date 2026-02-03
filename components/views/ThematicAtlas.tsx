@@ -666,7 +666,7 @@ const ThematicAtlas: React.FC<Props> = ({ data, domains: domainsProp, papers: pa
       {hasHeatmapData ? (
         <div className="flex flex-col gap-8 w-full">
           <HeatmapFigure
-            title="IISE Domain Evolution Over Time (16 Domains)"
+            title="IISE Domain Evolution Over Time (10 domains + Others)"
             categoryLabel="Domain"
             rows={domainHeatmapRows}
             years={domainYears}
