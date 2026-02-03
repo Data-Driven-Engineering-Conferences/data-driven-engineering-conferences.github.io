@@ -834,7 +834,7 @@ const Authors: React.FC = () => {
                       <div className="flex items-center justify-end gap-1">Papers <ArrowUpDown size={12}/></div>
                     </th>
                     <th className="px-6 py-4 cursor-pointer hover:bg-slate-100 text-right" onClick={() => handleSort('careerSpan')}>
-                      <div className="flex items-center justify-end gap-1">Career Span <ArrowUpDown size={12}/></div>
+                      <div className="flex items-center justify-end gap-1">IISE Career Span <ArrowUpDown size={12}/></div>
                     </th>
                     <th className="px-6 py-4 text-right">Years Active</th>
                     <th className="px-6 py-4 text-right">Papers/Year</th>
@@ -1015,7 +1015,7 @@ const Authors: React.FC = () => {
                   <div className="font-mono font-bold text-slate-900">{w.author.totalPapers}</div>
                 </div>
                 <div>
-                  <div className="text-xs text-slate-500 uppercase tracking-wide">Career Span</div>
+                  <div className="text-xs text-slate-500 uppercase tracking-wide">IISE Career Span</div>
                   <div className="font-mono font-bold text-slate-900">{w.author.careerSpan} years</div>
                 </div>
               </div>
