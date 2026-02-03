@@ -2,7 +2,7 @@ import React from 'react';
 import { X, Github, Database, AlertCircle, ExternalLink } from 'lucide-react';
 
 const ABSTRACT_ID = '16759';
-const PAPER_TITLE = 'A Data-Driven Analysis for Engineering Conferences';
+const PAPER_TITLE = 'A Data-Driven Analysis for Engineering Conferences: the Institute of Industrial and Systems Engineering (IISE) Annual Conference Proceedings (2002-2025)';
 const GITHUB_URL = 'https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase_dev';
 const DATAVERSE_URL = 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YW4IJG';
 const GITHUB_ISSUE_URL = `${GITHUB_URL}/issues/new?template=data_correction.yml`;
