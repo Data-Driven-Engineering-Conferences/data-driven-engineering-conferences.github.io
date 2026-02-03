@@ -17,8 +17,19 @@ const Header: React.FC<Props> = ({ onOpenUploadData, activeView }) => {
   const showModelSelector = activeView === 'THEMATIC' || activeView === 'ARCHIVE';
   const { availableModels, activeModel, setActiveModel } = useData();
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-  const [isAboutOpen, setIsAboutOpen] = useState(false);
+  const [isAboutOpen, setIsAboutOpen] = useState(true); // Open by default on page load
+  const [showButtonHighlight, setShowButtonHighlight] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
+
+  // Handle closing the about modal - show highlight on button
+  const handleAboutClose = () => {
+    setIsAboutOpen(false);
+    setShowButtonHighlight(true);
+    // Remove highlight after 3 seconds
+    setTimeout(() => {
+      setShowButtonHighlight(false);
+    }, 3000);
+  };
 
   // Close dropdown when clicking outside
   useEffect(() => {
@@ -109,7 +120,12 @@ const Header: React.FC<Props> = ({ onOpenUploadData, activeView }) => {
           )}
           <button
             onClick={() => setIsAboutOpen(true)}
-            className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-colors"
+            className={`flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-all ${
+              showButtonHighlight
+                ? 'ring-2 ring-orange-400 ring-offset-2 animate-pulse'
+                : ''
+            }`}
+            style={showButtonHighlight ? { animation: 'highlight-fade 3s ease-out forwards' } : {}}
             title="About this project"
           >
             <Info size={16} />
@@ -118,7 +134,7 @@ const Header: React.FC<Props> = ({ onOpenUploadData, activeView }) => {
         </div>
       </div>
 
-      <AboutModal isOpen={isAboutOpen} onClose={() => setIsAboutOpen(false)} />
+      <AboutModal isOpen={isAboutOpen} onClose={handleAboutClose} />
     </header>
   );
 };

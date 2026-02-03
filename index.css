@@ -4,6 +4,18 @@
   100% { left: 100%; }
 }
 
+@keyframes highlight-fade {
+  0% {
+    box-shadow: 0 0 0 2px #fb923c, 0 0 8px 2px rgba(251, 146, 60, 0.5);
+  }
+  70% {
+    box-shadow: 0 0 0 2px #fb923c, 0 0 8px 2px rgba(251, 146, 60, 0.5);
+  }
+  100% {
+    box-shadow: none;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;
