@@ -194,5 +194,5 @@ The app will be available at **https://data-driven-engineering-conferences.githu
 ## Resources
 
 - **GitHub Repository:** [data-driven-engineering-conferences-iise2026-codebase](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase)
-- **Harvard Dataverse Dataset:** [doi:10.7910/DVN/YW4IJG](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YW4IJG)
+- **Harvard Dataverse Dataset:** [doi:10.7910/DVN/8NYZTI](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8NYZTI)
 - **Hosting costs:** See [GITHUB_HOSTING_COSTS.md](../../../GITHUB_HOSTING_COSTS.md) for GitHub Pages, Actions, bandwidth, and payment details.
