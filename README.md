@@ -148,9 +148,9 @@ If you find incorrect, missing, or problematic data, please open a GitHub issue 
 
 ### Steps
 
-1. Go to the [GitHub repository](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase_dev).
+1. Go to the [GitHub repository](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase).
 2. Click **Issues** → **New issue**.
-3. Select the **"Data Correction Request"** template (or use the direct link: [New Data Correction Issue](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase_dev/issues/new?template=data_correction.yml)).
+3. Select the **"Data Correction Request"** template (or use the direct link: [New Data Correction Issue](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase/issues/new?template=data_correction.yml)).
 4. Fill in the template fields:
 
 | Field | Description |
@@ -193,5 +193,6 @@ The app will be available at **https://data-driven-engineering-conferences.githu
 
 ## Resources
 
-- **GitHub Repository:** [data-driven-engineering-conferences-iise2026-codebase_dev](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase_dev)
+- **GitHub Repository:** [data-driven-engineering-conferences-iise2026-codebase](https://github.com/Data-Driven-Engineering-Conferences/data-driven-engineering-conferences-iise2026-codebase)
 - **Harvard Dataverse Dataset:** [doi:10.7910/DVN/YW4IJG](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YW4IJG)
+- **Hosting costs:** See [GITHUB_HOSTING_COSTS.md](../../../GITHUB_HOSTING_COSTS.md) for GitHub Pages, Actions, bandwidth, and payment details.
